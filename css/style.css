@@ -205,26 +205,26 @@ a:hover {
   height: 429.983px;
   position: absolute;
   border-radius: 15px;
-  background-color: black;
   opacity: 0;
+  background-color: black;
   text-align: center;
   transition: all 0.4s;
 }
 
 .layout p {
-  margin-top: 180px;
   color: white;
   font-size: 1.3vh;
   font-weight: 700;
+  margin-top: 180px;
   padding:20px;
 }
 
 .layout:hover {
+  position: absolute;
+  text-align: center;
   width: 300px;
   height: 429.983px;
-  position: absolute;
   background-color: rgba(0, 0, 0, 0.5);
-  text-align: center;
   opacity: 1;
   box-shadow: 0px 0 5px 6px rgba(255, 204, 0, 0.3);
 }
