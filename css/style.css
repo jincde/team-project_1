@@ -1,3 +1,7 @@
+h1 {
+ font-size: 1rem;
+}
+
 .nav {
   display: flex;
   justify-content: space-between;
@@ -42,3 +46,24 @@
 
 } */
 
+.title-title {
+  margin: 0;
+  padding: 0;
+  font-size: 4rem;
+  font-weight: bolder;
+  color: black;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 320px;
+  background-image: url('../assets/background.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*.title-text {
+  margin: 100;
+}*/
