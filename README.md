@@ -21,6 +21,7 @@
   > `background-image`와 `background-color`를 동시에 넣고 `background-blend-mode`를 주면 한 번에 해결 가능!!
 - 포스터 `display: flex`으로 정렬
 - `nav`, `aside`, 포스터에 `hover`기능 추가
+  - `a:hover`에 있던 `padding`, `border-radius`를 `a태그`로 옮겨서 `hover`시 통통 튀던 이슈 해결함
 - 포스터  `overlay` 로 별점 확인을 할 수 있도록 구현함
 - 포스터 `box-shadow`활용
 - `nav`바 `position: sticky`활용
